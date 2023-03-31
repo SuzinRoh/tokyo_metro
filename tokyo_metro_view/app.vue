@@ -6,5 +6,4 @@
 
 <script setup lang="ts">
 
-const test:string="test"
 </script>

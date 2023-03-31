@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "tokyo-metro-view",
   "private": true,
   "scripts": {
     "build": "nuxt build",
