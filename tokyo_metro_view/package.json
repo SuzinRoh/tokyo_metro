@@ -1,5 +1,5 @@
 {
-  "name": "tokyo-metro-view",
+  "name": "nuxt-app",
   "private": true,
   "scripts": {
     "build": "nuxt build",
@@ -11,8 +11,12 @@
   "devDependencies": {
     "@nuxt/types": "^2.16.3",
     "@nuxt/typescript-build": "^3.0.1",
-    "nuxt": "^3.3.2",
-    "sass": "^1.60.0",
+    "nuxt": "^3.3.3",
+    "sass": "^1.61.0",
     "vuetify": "^3.1.4"
+  },
+  "dependencies": {
+    "@types/three": "^0.150.1",
+    "three": "^0.151.3"
   }
 }

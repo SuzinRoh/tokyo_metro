@@ -19,7 +19,7 @@ pnpm install
 
 ## Development Server
 
-Start the development server on http://localhost:3000
+Start the development server on `http://localhost:3000`
 
 ```bash
 npm run dev
@@ -40,38 +40,3 @@ npm run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-
-----------------------------
-dir tree
-tokyo-metro-view/
-├── assets/
-│   ├── css/
-│   │   └── main.css
-│   └── ...
-├── components/
-│   ├── MyComponent.vue
-│   └── ...
-├── layouts/
-│   ├── default.vue
-│   └── ...
-├── middleware/
-│   ├── auth.ts
-│   └── ...
-├── pages/
-│   ├── index.vue
-│   ├── about.vue
-│   └── ...
-├── plugins/
-│   ├── vuetify.ts
-│   └── ...
-├── static/
-│   └── favicon.ico
-├── store/
-│   ├── index.ts
-│   └── ...
-├── .npmrc
-├── app.vue
-├── nuxt.config.js
-├── package.json
-├── tsconfig.json
-└── package-lock.json

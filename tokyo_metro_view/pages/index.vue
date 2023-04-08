@@ -1,7 +1,15 @@
 <template>
-    <v-app>
-      <v-main>
-        <v-container>Hello, world!</v-container>
-      </v-main>
-    </v-app>
+    <div class="indexPage">
+        <h4>index page</h4>
+    </div>
 </template>
+
+<script setup lang="ts">
+
+</script>
+
+<style scoped>
+.indexPage {
+    background-color: lightblue;;
+}
+</style>
