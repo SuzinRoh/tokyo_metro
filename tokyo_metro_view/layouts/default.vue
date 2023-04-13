@@ -1,6 +1,6 @@
 <template>
     <div class="default">
-        <gobal-app-header/>
+        <gobal-app-header/>sdsd
         <slot />
     </div>
   </template>
@@ -13,5 +13,6 @@ import GobalAppHeader from '@/components/global/appHeader.vue';
 <style scoped>
 .default {
     background-color: lightsalmon;
+    height: 100%;
 }
 </style>
