@@ -7,8 +7,8 @@
 
 
 ---
-testing not working yet
-herf = https://suzinroh.github.io/tokyo_metro/
+> testing not working yet
+> <a href="https://suzinroh.github.io/tokyo_metro/"> not working </a>
 ---
 
 ## ⚙ develop env.
